@@ -1,3 +1,1 @@
-$$
-\Huge\text{\textbf{GIANT}}
-$$
+<span style="font-size: 5000px;">Text</span>
